@@ -1,0 +1,26 @@
+Gdzie poradnik to wiadomo.
+
+Pobrany plik wrzuć do documents
+
+wpisz realpath Documents
+
+zastąp ścieżkę.
+
+gotowe teraz użyj javac i java tak jak jest podane.
+
+openjfx.io install-javafx
+
+javac --module-path $PATH_TO_FX --add-modules javafx.controls HelloFX.java
+
+java --module-path $PATH_TO_FX --add-modules javafx.controls HelloFX
+
+
+
+Kroki poniżej... -_ -
+
+export PATH_TO_FX=/home/elon/Documents/JavaFx/openjfx-18.0.1_linux-x64_bin-sdk/javafx-sdk-18.0.1/lib
+
+javac --module-path $PATH_TO_FX --add-modules javafx.controls Canvas.java
+
+potem samo java you know.
+

@@ -1,0 +1,14 @@
+Poniedziałek: 
+    Dodać obsługę myszy:
+        - Po każdym kliknęciu zapisuję się punkt do zmiennej.
+        - NOT DONE Dodać pustą funkcjonalność scrolla (na przyszłość).
+    Rozbudować klasę Figure, skopiować EnumOne EnumTwo tak jak w poprzednim zadaniu
+    mniej więcej ma to tak samo działać
+Wtorek:
+    Pora na StateMachine, opiera się na emumie muszę tak to zrobić
+    by pilnowało ile razy klikam (gdy prawy do zeruje się oraz zmiene pkt)
+    i jeśli mam wybraną figurę która wymaga np 2 pkt a maszyna ma state 2
+    to w tedy ma się rysować figura.
+
+StateMachine gdy kliknę raz i zmienię wybór to wpisuje kat w prostokąt by usunąć
+wcześniejszy.
