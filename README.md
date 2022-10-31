@@ -1,6 +1,6 @@
 Paint z labów wszystko jest w nim opisane
 
-Short:
+O programie:
 
 Można wybrać figurę i potem klikać po płótnie po kilku kliknięciach
 zależnie od wyboru narysuje się figura choć trójkąt jak patrzyłem 
@@ -9,3 +9,5 @@ i go nie poprawiłem.
 
 Opiera się na StateMachine ale wybrałem słabe state-y i działa gównianie
 przesówać w tym programie się nie da bo nie umiałem
+
+Kod działa, można tylko rysować figury
